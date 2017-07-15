@@ -1,6 +1,6 @@
 # main text of home
 name: Cayan Atreio Portela
-bio: |
+bio: >
   Bacharel em Estatística                                                                                                                                                                                                           
   <br>
   Mestrando em Estatística Experimental
@@ -42,7 +42,7 @@ disqus:
 facebook: cayan.portela
 # twitter: mytwitter
 # google: mygoogle
- instagram: cayanportela
+instagram: cayanportela
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
