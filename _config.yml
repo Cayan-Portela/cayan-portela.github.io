@@ -56,13 +56,13 @@ github: cayan-portela
 # vimeo: myvimeo
 email: cayanportela@hotmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/perfil.jpg
-        twitter: johndoe
+#authors:
+#    johndoe:
+#        name: John Doe
+#        bio: A Man who travels the world eating noodles
+#        external-image: false
+#        picture: assets/images/perfil.jpg
+#        twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -77,7 +77,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+sobre: true
 blog: true
 
 # do you want to show the "read time" of the posts?
