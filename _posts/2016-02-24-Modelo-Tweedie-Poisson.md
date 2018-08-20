@@ -4,6 +4,7 @@ layout: post
 date: 2018-07-31 21:57
 headerImage: false
 category: blog
+tags: [Tweedie Poisson Compound]
 author: Cayan Portela
 description: Markdown summary with different options
 comments: true
