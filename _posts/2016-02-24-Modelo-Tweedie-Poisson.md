@@ -56,7 +56,7 @@ $$k(\theta) = log  \int  e^{\theta y} \nu dy $$
 em que $$\nu$$ é uma medida finita em $$R$$.
 
 Por definição, temos que:
-- $$\mu_i$$ = $$E(Y_i)$$ = $$k'(\theta_i)$$
+- \\(\mu_i\\) = $$E(Y_i)$$ = $$k'(\theta_i)$$
 - $$Var(Y_i)$$ = $$\frac{1}{\lambda} Var(\mu_i)$$ = $$\frac{1}{\lambda}k''(\theta_i)$$
 
 Considerando a reparametrização $$\sigma²$$ = $$\frac{1}{\lambda}$$, temos que $$\sigma²$$ representa o parâmetro de dispersão.
