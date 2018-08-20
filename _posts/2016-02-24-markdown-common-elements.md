@@ -31,7 +31,7 @@ $$
 f(y_i;\theta_i,\phi) = \mbox{exp}\left\{\phi^{-1} [y_i \theta_i - b(\theta_i)] + c(y_i,\phi)\right\},
 $$
 
-em que $$\theta_i$$ é o parâmetro canônico; $$b(\cdot)$$ e $$c(\cdot)$$ são funções conhecidas. 
+em que $$ \theta_i $$ é o parâmetro canônico; $$b(\cdot)$$ e $$c(\cdot)$$ são funções conhecidas. 
 Assim, denota-se $$Y_i \sim \mbox{FE}(\mu_i , \phi)$$. A média e variância de $$Y_i$$ são dadas, respectivamente, por:
 
 $$E(Y_i) = b'(\theta_i) = {\mu_i}$$ 
