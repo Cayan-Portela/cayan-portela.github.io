@@ -27,7 +27,7 @@ Dividiremos o post nas seguintes etapas: (1) explicaremos os modelos usados para
  
  Nelder e Wedderburn (1972) propuseram uma classe de modelos de regressão mais flexível, os modelos lineares generalizados. Esta nova classe abrange as distribuições pertencentes à família exponencial (Normal, Gamma, Poisson, Binomial, Normal-Inversa), aumentando a quantidade de problema a serem abordados.  Uma distribuição que pertença à família exponencial pode ser representada da seguinte forma: 
 
-$$f(y_i;\theta_i,\phi) = \mbox{exp}\left\{\phi^{-1} [y_i \theta_i - b(\theta_i)] + c(y_i,\phi)\right\},$$
+$$  f(y_i;\theta_i,\phi) = \mbox{exp}\left\{\phi^{-1} [y_i \theta_i - b(\theta_i)] + c(y_i,\phi)\right\},  $$
 
 em que $$\theta_i$$ é o parâmetro canônico; $$b(\cdot)$$ e $$c(\cdot)$$ são funções conhecidas. 
 Assim, denota-se $$Y_i \sim \mbox{FE}(\mu_i , \phi)$$. A média e variância de $$Y_i$$ são dadas, respectivamente, por:
