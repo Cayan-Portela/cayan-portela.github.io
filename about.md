@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Graduação em Estatística pela Universidade de Brasília (2015). Mestrando em Estatística e Experimentação Agronômica pela Universidade de São Paulo (USP/ESALQ). Experiência em estatística computacional, visualização de dados, modelos lineares generalizados.</p>
+<p>Graduado em Estatística pela Universidade de Brasília (2015). Mestrando em Estatística e Experimentação Agronômica pela Universidade de São Paulo (USP/ESALQ). Experiência em estatística computacional, análises interativas e visualização de dados, modelos lineares generalizados.</p>
 
 
 <h2>Skills</h2>
