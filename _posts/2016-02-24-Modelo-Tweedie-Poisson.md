@@ -10,8 +10,6 @@ description: Markdown summary with different options
 comments: true
 ---
 
-# Modelo Tweedie Poisson Compound para Dados de Sinistros de Veículos
-
  Situações onde se deseja verificar/quantificar a influência de certos fatores em uma variável de interesse são comuns em problemas estatísticos. 
 
 Para as seguradoras, a análise do nível de risco é extremamente importante para se estabelecer preço, tarifas e até o planejamento da empresa, como projeção de receitas e despesas. Desta forma, é essencial que as seguradoras possuam um modelo que apresente quais fatores influenciam o nível de diferentes riscos, como por exemplo, se uma certo tipo de automóvel tende a gerar mais custos de pagamento do que outros, etc. 
