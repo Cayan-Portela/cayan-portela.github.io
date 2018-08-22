@@ -19,7 +19,7 @@ picture: assets/images/perfil.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://cayan-portela.github.io/cv.pdf
 
 url: https://cayan-portela.github.io
 # your url: http://USERNAME.github.io
