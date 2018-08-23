@@ -1,6 +1,6 @@
 
 ---
-title: Monografia
+title: "Monografia"
 layout: post
 date: 2018-08-23 22:10
 tag: jekyll
