@@ -1,11 +1,11 @@
 # main text of home
 name: Cayan Atreio Portela
 bio: >
-  Bacharel em Estatística                                                                                                                                                                                                           
+  Bachelor's degree, Statistics                                                                                                                                                                                                        
   <br>
-  Mestre em Estatística Experimental
+  Master's degree, Statistics & Experimentation
   <br>
-  Doutorando&nbsp;em&nbsp;Finanças&nbsp;e&nbsp;Métodos&nbsp;Quantitativos
+  PhD candidate, &nbsp;em&nbsp;Finance&nbsp;and&nbsp;Quantitative&nbsp;Methods
 
       
 
@@ -21,7 +21,7 @@ picture: assets/images/perfil2.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://cayan-portela.github.io/cv.pdf
+resume-url: https://cayan-portela.github.io/cv_eng.pdf
 
 url: https://cayan-portela.github.io
 # your url: http://USERNAME.github.io
