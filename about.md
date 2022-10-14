@@ -4,23 +4,21 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Graduado em Estatística pela Universidade de Brasília (2015). Mestrando em Estatística e Experimentação Agronômica pela Universidade de São Paulo (USP/ESALQ). Experiência em estatística computacional, análises interativas e visualização de dados, modelos lineares generalizados.</p>
+<p>With over 5 years of experience in data science, statistics and quantitative finance, working in medium and large companies. Experience in analyzing structured and unstructured data and solving business problems using data-driven techniques. Acting in process improvement, which results in task optimization, cost reduction and increased productivity.</p>
 
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Visualização de dados</li>
-	<li>Modelos Lineares Generalizados</li>
-	<li>Estatística Computacional</li>
-	<li>R</li>
-	<li>R-Shiny</li>
+	<li>Machine Learning</li>
+	<li>Statistical Modeling & Probability Theory</li>
+	<li>R, Python, SAS, SQL, GCP</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://cayan.shinyapps.io/glm-app">Shiny App to perform generalized linear models</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
